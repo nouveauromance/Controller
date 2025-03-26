@@ -4,7 +4,7 @@
 
 ## Instalação
 
-📌 Clone o repositório 
+📌 Instale clonando o repositório
     
 ## Autores
 
