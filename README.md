@@ -15,6 +15,7 @@ e introdução ao Springboot.
 ## Autores
 
 - [@Natali](https://github.com/nouveauromance)
+- [@Rayane](https://github.com/RayaneBarrosM)
 
 🔗 Aula por Vinícius Heltai Pacheco
 
